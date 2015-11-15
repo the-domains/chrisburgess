@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'Neuroscience, Artificial Intelligence, Machine Learning, Computation'
-datePublished: '2015-11-15T16:09:28.701Z'
-dateModified: '2015-11-15T15:09:10.926Z'
+description: ''
+datePublished: '2015-11-15T16:21:53.977Z'
+dateModified: '2015-11-15T16:21:37.931Z'
 title: Chris Burgess
 authors: []
 publisher:
@@ -21,24 +21,8 @@ published: true
 _type: Blurb
 
 ---
-# Chris Burgess
+Chris Burgess
 
-PhD Candidate
-
-UCL Institute of Ophthalmology
+Systems NeuroscienceUCL Institute of Ophthalmology
 
 Publications
-
-2014 Controlling phase noise in oscillatory interference models of grid cell firing
-
-2011 Temporal neuronal oscillations can produce spatial phase codes
-
-Conference abstracts
-
-2014 Task-related anticipatory activity in mouse visual cortex
-
-2015 Correlates of anticipation and movement in mouse visual cortex
-
-2014 Correlates of anticipation and movement in mouse visual cortex
-
-2011 Noise reduction in an oscillatory interference model of grid cell firing
